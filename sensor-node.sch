@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:sensor-node-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -528,7 +529,7 @@ F 3 "" H 4100 4100 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L PS2811-1 U?
+L PS2811-1-RESCUE-sensor-node U?
 U 1 1 59702874
 P 2150 3600
 F 0 "U?" H 2200 4050 60  0000 C CNN
@@ -583,7 +584,7 @@ F 3 "" H 3050 2950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L PS2811-1 U?
+L PS2811-1-RESCUE-sensor-node U?
 U 1 1 59708087
 P 2150 4250
 F 0 "U?" H 2200 4700 60  0000 C CNN

@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
-# PS2811-1
+# PS2811-1-RESCUE-sensor-node
 #
-DEF PS2811-1 U 0 40 Y Y 1 F N
+DEF PS2811-1-RESCUE-sensor-node U 0 40 Y Y 1 F N
 F0 "U" 50 450 60 H V C CNN
-F1 "PS2811-1" 250 -50 60 H V C CNN
+F1 "PS2811-1-RESCUE-sensor-node" 250 -50 60 H V C CNN
 F2 "" 200 100 60 H I C CNN
 F3 "" 200 100 60 H I C CNN
 DRAW
