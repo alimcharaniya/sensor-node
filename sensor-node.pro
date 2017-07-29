@@ -1,4 +1,4 @@
-update=Wed 19 Jul 2017 08:50:59 PM PDT
+update=Thu 20 Jul 2017 09:26:26 PM PDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -62,3 +62,13 @@ LibName30=valves
 LibName31=stm32f042k6t6
 LibName32=bsp75g
 LibName33=ps2811-1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=../../Desktop/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
