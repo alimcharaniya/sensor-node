@@ -660,7 +660,7 @@ Text GLabel 8450 2400 3    60   Input ~ 0
 CANL
 Text GLabel 8450 2000 1    60   Input ~ 0
 CANH
-Text GLabel 8850 1350 0    60   Input ~ 0
+Text GLabel 9350 1250 2    60   Input ~ 0
 CANH
 Text GLabel 9350 1350 2    60   Input ~ 0
 CANL
@@ -903,8 +903,6 @@ Wire Wire Line
 	9500 2100 9500 2300
 Wire Wire Line
 	9750 1350 9750 850 
-Wire Wire Line
-	9350 1250 9750 1250
 Connection ~ 9750 1250
 Wire Wire Line
 	8850 1250 8800 1250
@@ -1560,4 +1558,9 @@ F 3 "" H 8300 1150 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	8300 1150 8300 1000
+Wire Wire Line
+	8850 1350 8800 1350
+Wire Wire Line
+	8800 1350 8800 1200
+Connection ~ 8800 1200
 $EndSCHEMATC
